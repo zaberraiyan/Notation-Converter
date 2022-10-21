@@ -2,7 +2,7 @@
 
 Data Structures
 
-*** DOES NOT USED STD Library Containers such as STL Deque, Stack, Queue, Vector, or List ****
+*** DOES NOT USE STD Library Containers such as STL Deque, Stack, Queue, Vector, or List ****
 
 Deque Implementation from scratch.
 
