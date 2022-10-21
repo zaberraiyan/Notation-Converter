@@ -1,5 +1,5 @@
 //DATA STRUCTURES SEC 2 PROJECT 2
-//Zaber Raiyan Choudhury and Tayla Thompson
+//Zaber Raiyan Choudhury
 
 #ifndef NOTATIONCONVERTER_H
 #define NOTATIONCONVERTER_H
